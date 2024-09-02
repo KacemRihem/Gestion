@@ -1,32 +1,30 @@
 <html>
 <head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil de l'entreprise</title>
  <style type="text/css">
    
    #header, #footer {
 			font-size: 40px;;
 			padding: 0.3em;
-			background: #ecc814;
-		}
-   
-   
+			background: #087316;
+		}  
  </style>
 </head>
 
-
-  
-  
 <body>
 	
-<header id="header"><p>Formation @Devops@ Rihem Exam 701: DevOps Tools Engineer | LPI...</p></header>
+<header id="header"><p>Bienvenu sur notre plateforme</p></header>
 	</br></br>
 
   <center> 
 	  
 	  
-	  <h1 >  Groupe devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
+	  <h1 >  Gestion des données géographiques |> <img src="satellite.jpg"  height="50" width="150"> </h1> 
 	  
 	  </br>
-          <img src="Jenkins.png"  height="300" width="300"> 
+          <img src="logo organisme.jpg"  height="80" width="80"> 
   </center>
 
 
