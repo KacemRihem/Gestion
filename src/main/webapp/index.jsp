@@ -21,7 +21,10 @@
   <center> 
 	  
 	  
-	  <h1 >  Gestion des données géographiques |> <img src="satellite.jpg"  height="50" width="150"> </h1> 
+	  <h1 >  Gestion des données géographiques </h1> 
+ 	  </br>
+
+	  <img src="satellite.jpg"  height="50" width="150">
 	  
 	  </br>
           <img src="logo organisme.jpg"  height="80" width="80"> 
