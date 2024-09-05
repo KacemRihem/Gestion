@@ -74,7 +74,7 @@
     <div class="main-container">
         <div class="image-container"></div>
         <div class="form-container">
-            <h1>Bienvenue sur notre application</h1>
+            <h1>Bienvenue sur notre plateforme</h1>
             <form action="/login" method="post">
                 <div class="form-group">
                     <label for="username">Nom d'utilisateur</label>
